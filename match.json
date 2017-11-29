@@ -9,14 +9,16 @@
   "side_type": "standard",
 
   "spectators": {
-    "players": [
+    "players": 
+    [
       "STEAM_1:1:.....",
       "STEAM_1:1:.....",
       "STEAM_1:1:....."
     ]
   },
 
-  "maplist": [
+  "maplist": 
+  [
     "de_cache",
     "de_cbble",
     "de_inferno",
@@ -34,7 +36,8 @@
     "tag": "EnvyUs",
     "flag": "FR",
     "logo": "nv",
-    "players": {
+    "players": 
+    {
       "STEAM_0:1:52245092": "splewis",
       "STEAM_1:1:.....": "",
       "STEAM_1:1:.....": "",
@@ -48,7 +51,8 @@
     "tag": "Fnatic",
     "flag": "SE",
     "logo": "fntc",
-    "players": [
+    "players": 
+    [
       "STEAM_1:1:46796472",
       "STEAM_1:0:78189799",
       "STEAM_1:0:142982",
