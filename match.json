@@ -1,11 +1,10 @@
 {
-  "matchid": "example_match",
-  "num_maps": 3,
+  "matchid": "test1",
+  "num_maps": 1,
   "players_per_team": 1,
   "min_players_to_ready": 1,
   "min_spectators_to_ready": 0,
-  "skip_veto": false,
-  "veto_first": "team1",
+  "skip_veto": true,
   "side_type": "standard",
 
   "spectators": {
@@ -19,45 +18,31 @@
 
   "maplist": 
   [
-    "de_cache",
-    "de_cbble",
-    "de_inferno",
-    "de_mirage",
-    "de_nuke",
-    "de_overpass",
-    "de_train"
+    "de_cache"
   ],
 
   "favored_percentage_team1": 65,
   "favored_percentage_text": "HLTV Bets",
 
   "team1": {
-    "name": "EnvyUs",
+    "name": "Harald",
     "tag": "EnvyUs",
     "flag": "FR",
     "logo": "nv",
     "players": 
     {
-      "STEAM_0:1:2416471": "",
-      "STEAM_1:1:.....": "",
-      "STEAM_1:1:.....": "",
-      "STEAM_1:1:.....": "",
-      "STEAM_1:1:.....": ""
+      "STEAM_0:1:2416471": ""
     }
   },
 
   "team2": {
-    "name": "Fnatic",
+    "name": "Andre",
     "tag": "Fnatic",
     "flag": "SE",
     "logo": "fntc",
     "players": 
     [
-      "STEAM_0:0:44069072",
-      "STEAM_1:0:78189799",
-      "STEAM_1:0:142982",
-      "STEAM_1:1:.....",
-      "STEAM_1:1:....."
+      "STEAM_0:0:44069072"
     ]
   },
 
