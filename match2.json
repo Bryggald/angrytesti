@@ -1,0 +1,40 @@
+{
+  "matchid": "121_Match_1",
+  "num_maps": 1,
+  "players_per_team": 1,
+  "min_players_to_ready": 1,
+  "min_spectators_to_ready": 0,
+  "skip_veto": true,
+  "side_type": "standard",
+  "maplist": [
+    "de_cache"
+  ],
+  "favored_percentage_team1": 65,
+  "favored_percentage_text": "HLTV Bets",
+  "spectator": {
+    "players": [
+
+    ]
+  },
+  "team1": {
+    "name": "elemeNt",
+    "tag": "elemeNt",
+    "flag": "NO",
+    "logo": "nv",
+    "players": {
+      "STEAM_0:1:37687": "121 Admin"
+    }
+  },
+  "team2": {
+    "name": "nox",
+    "tag": "nox",
+    "flag": "NO",
+    "logo": "nv",
+    "players": {
+      "STEAM_0:1:31430": "DominusNox"
+    }
+  },
+  "cvars": {
+    "hostname": "Match server #1"
+  }
+}
