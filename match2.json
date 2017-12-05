@@ -35,6 +35,7 @@
     }
   },
   "cvars": {
-    "hostname": "Match server #1"
+    "hostname": "Match server #1",
+     get5_mysql_force_matchid":"0"
   }
 }
