@@ -1,5 +1,5 @@
 {
-  "matchid": "202",
+  "matchid": "0",
   "num_maps": 1,
   "players_per_team": 1,
   "min_players_to_ready": 1,
@@ -36,6 +36,6 @@
   },
   "cvars": {
     "hostname": "Match server #1",
-    "get5_mysql_force_matchid": "1"
+    "get5_mysql_force_matchid": "204"
   }
 }
