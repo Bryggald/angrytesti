@@ -35,7 +35,7 @@
     }
   },
   "cvars": {
-    "get5_live_cfg": "aim.cfg",
+    "get5_live_cfg": "aim",
     "get5_mysql_force_matchid": "204"
   }
 }
