@@ -35,6 +35,6 @@
     }
   },
   "cvars": {
-    "get5_live_cfg" "aim"
+    "get5_live_cfg":"get5/aim.cfg"
   }
 }
