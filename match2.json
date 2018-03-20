@@ -35,6 +35,8 @@
     }
   },
   "cvars": {
+    "get5_autoload_config":"get5/aim.cfg",
+    "get5_warmup_cfg":"get5/aim.cfg",
     "get5_live_cfg":"get5/aim.cfg"
   }
 }
