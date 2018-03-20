@@ -5,7 +5,7 @@
   "min_players_to_ready": 1,
   "min_spectators_to_ready": 0,
   "skip_veto": true,
-  "side_type": "standard",
+  "side_type": "never_knife",
   "maplist": [
     "aim_map_usp_s"
   ],
