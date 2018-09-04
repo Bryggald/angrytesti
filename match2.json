@@ -7,7 +7,7 @@
   "skip_veto": true,
   "side_type": "never_knife",
   "maplist": [
-    "aim_map_usp_s"
+    "de_cache"
   ],
   "favored_percentage_team1": 65,
   "favored_percentage_text": "HLTV Bets",
@@ -35,8 +35,8 @@
     }
   },
   "cvars": {
-    "get5_autoload_config":"get5/aim.cfg",
-    "get5_warmup_cfg":"get5/aim.cfg",
-    "get5_live_cfg":"get5/aim.cfg"
+    "get5_autoload_config":"get5/live.cfg",
+    "get5_warmup_cfg":"get5/live.cfg",
+    "get5_live_cfg":"get5/live.cfg"
   }
 }
