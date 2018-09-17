@@ -7,36 +7,36 @@
   "skip_veto": true,
   "side_type": "never_knife",
   "maplist": [
-    "de_cache"
+    "aim_map_usp_s"
   ],
   "favored_percentage_team1": 65,
-  "favored_percentage_text": "HLTV Bets",
+  "favored_percentage_text": "Mhmm",
   "spectator": {
     "players": [
 
     ]
   },
   "team1": {
-    "name": "Moses",
+    "name": "Moped",
     "tag": "Mos",
     "flag": "NO",
-    "logo": "nv",
+    "logo": "",
     "players": {
-      "STEAM_0:1:2416471": "121 Admin"
+      "STEAM_0:1:2416471": "Playah"
     }
   },
   "team2": {
-    "name": "Jesus",
+    "name": "Knallert",
     "tag": "Jes",
     "flag": "NO",
-    "logo": "nv",
+    "logo": "",
     "players": {
-      "STEAM_0:0:44069072": "H-Swine"
+      "STEAM_0:0:44069072": "Hayalp"
     }
   },
   "cvars": {
-    "get5_autoload_config":"get5/live.cfg",
-    "get5_warmup_cfg":"get5/live.cfg",
-    "get5_live_cfg":"get5/live.cfg"
+    "get5_autoload_config":"get5/aim.cfg",
+    "get5_warmup_cfg":"get5/warmup.cfg",
+    "get5_live_cfg":"get5/aim.cfg"
   }
 }
