@@ -36,7 +36,7 @@
   },
   "cvars": {
     "get5_autoload_config":"get5/wingman2.cfg",
-    "get5_warmup_cfg":"get5/warmup.cfg",
+    "get5_warmup_cfg":"get5/warmup_wingman.cfg",
     "get5_live_cfg":"get5/wingman2.cfg"
   }
 }
