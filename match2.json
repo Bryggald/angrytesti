@@ -18,7 +18,6 @@
   },
   "team1": {
     "name": "Moped",
-    "tag": "Mos",
     "flag": "NO",
     "logo": "",
     "players": {
@@ -27,7 +26,6 @@
   },
   "team2": {
     "name": "Knallert",
-    "tag": "Jes",
     "flag": "NO",
     "logo": "",
     "players": {
