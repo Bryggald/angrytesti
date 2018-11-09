@@ -1,13 +1,15 @@
 {
   "matchid": "5",
-  "num_maps": 1,
-  "players_per_team": 1,
-  "min_players_to_ready": 1,
+  "num_maps": 3,
+  "players_per_team": 2,
+  "min_players_to_ready": 2,
   "min_spectators_to_ready": 0,
   "skip_veto": true,
   "side_type": "never_knife",
   "maplist": [
-    "aim_map_usp_s"
+    "de_shortdust",
+    "de_shortnuke",
+    "de_train"
   ],
   "favored_percentage_team1": 65,
   "favored_percentage_text": "Mhmm",
@@ -35,8 +37,8 @@
     }
   },
   "cvars": {
-    "get5_autoload_config":"get5/aim.cfg",
-    "get5_warmup_cfg":"get5/warmup.cfg",
-    "get5_live_cfg":"get5/aim.cfg"
+    "get5_autoload_config":"get5/wingman.cfg",
+    "get5_warmup_cfg":"get5/warmup_wingman.cfg",
+    "get5_live_cfg":"get5/wingman.cfg"
   }
 }
