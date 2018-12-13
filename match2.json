@@ -24,7 +24,7 @@
     "flag": "NO",
     "logo": "",
     "players": {
-      "STEAM_0:1:7081586": "DU"
+      "STEAM_0:1:7081586": "mekkel"
     }
   },
   "team2": {
@@ -33,12 +33,13 @@
     "flag": "NO",
     "logo": "",
     "players": {
-      "STEAM_0:0:44069072": "MEG"
+      "STEAM_0:0:44069072": "poppers"
     }
   },
   "cvars": {
     "get5_autoload_config":"get5/wingman.cfg",
     "get5_warmup_cfg":"get5/warmup_wingman.cfg",
-    "get5_live_cfg":"get5/wingman.cfg"
+    "get5_live_cfg":"get5/wingman.cfg",
+    "tv_record":"testdemo.dem"
   }
 }
