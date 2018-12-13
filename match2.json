@@ -1,26 +1,24 @@
 {
   "matchid": "5",
-  "num_maps": 3,
+  "num_maps": 1,
   "players_per_team": 1,
   "min_players_to_ready": 1,
   "min_spectators_to_ready": 0,
   "skip_veto": true,
   "side_type": "never_knife",
   "maplist": [
-    "de_shortdust",
-    "de_shortnuke",
-    "de_train"
+    "aim_map_usp_s"
   ],
   "favored_percentage_team1": 65,
-  "favored_percentage_text": "Mhmm",
+  "favored_percentage_text": "Favoritt",
   "spectators": {
     "players": [
       "STEAM_0:0:44069072"
     ]
   },
   "team1": {
-    "name": "Harald",
-    "tag": "EnvyUs",
+    "name": "Team Numero Uno",
+    "tag": "UNO",
     "flag": "NO",
     "logo": "",
     "players": {
@@ -28,8 +26,8 @@
     }
   },
   "team2": {
-    "name": "sddd",
-    "tag": "sdasd",
+    "name": "Team Numero Dos",
+    "tag": "DOS",
     "flag": "NO",
     "logo": "",
     "players": {
@@ -37,9 +35,8 @@
     }
   },
   "cvars": {
-    "get5_autoload_config":"get5/wingman.cfg",
-    "get5_warmup_cfg":"get5/warmup_wingman.cfg",
-    "get5_live_cfg":"get5/wingman.cfg",
-    "tv_record":"testdemo.dem"
+    "get5_autoload_config":"get5/aim.cfg",
+    "get5_warmup_cfg":"get5/warmup.cfg",
+    "get5_live_cfg":"get5/aim.cfg"
   }
 }
