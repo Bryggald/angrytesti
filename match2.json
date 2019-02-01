@@ -7,7 +7,7 @@
   "skip_veto": true,
   "side_type": "never_knife",
   "maplist": [
-    "aim_map_usp_s"
+    "aim_map"
   ],
   "favored_percentage_team1": 65,
   "favored_percentage_text": "Favoritt",
