@@ -20,7 +20,7 @@
     "name": "Team Numero Uno",
     "tag": "UNO",
     "flag": "NO",
-    "logo": "",
+    "logo": "http://entilen.nettbrygga.com/wp-content/themes/entilen/images/csgotest/nick1.png",
     "players": {
       "STEAM_0:1:417647611": "kevster"
     }
@@ -29,7 +29,7 @@
     "name": "Team Numero Dos",
     "tag": "DOS",
     "flag": "NO",
-    "logo": "",
+    "logo": "http://entilen.nettbrygga.com/wp-content/themes/entilen/images/csgotest/nick2.png",
     "players": {
       "STEAM_0:0:44069072": "poppers"
     }
@@ -37,6 +37,6 @@
   "cvars": {
     "get5_autoload_config":"get5/aim.cfg",
     "get5_warmup_cfg":"get5/warmup.cfg",
-    "get5_live_cfg":"get5/live.cfg"
+    "get5_live_cfg":"get5/aim.cfg"
   }
 }
