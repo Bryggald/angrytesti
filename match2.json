@@ -7,7 +7,7 @@
   "skip_veto": true,
   "side_type": "never_knife",
   "maplist": [
-    "de_dust2"
+    "de_shortdust"
   ],
   "favored_percentage_team1": 65,
   "favored_percentage_text": "Favoritt",
@@ -18,16 +18,16 @@
   },
   "team1": {
     "name": "Team Numero Uno",
-    "tag": "UNO",
+    "tag": "KEV",
     "flag": "NO",
     "logo": "http://entilen.nettbrygga.com/wp-content/themes/entilen/images/csgotest/nick1.png",
     "players": {
-      "STEAM_0:1:2416471": "steven"
+      "STEAM_0:1:417647611": "kevu"
     }
   },
   "team2": {
     "name": "Team Numero Dos",
-    "tag": "DOS",
+    "tag": "MHM",
     "flag": "NO",
     "logo": "http://entilen.nettbrygga.com/wp-content/themes/entilen/images/csgotest/nick2.png",
     "players": {
@@ -36,7 +36,7 @@
   },
   "cvars": {
     "get5_autoload_config":"get5/aim.cfg",
-    "get5_warmup_cfg":"get5/warmup.cfg",
-    "get5_live_cfg":"get5/aim.cfg"
+    "get5_warmup_cfg":"get5/warmup_wingman.cfg",
+    "get5_live_cfg":"get5/wingman.cfg"
   }
 }
