@@ -7,7 +7,7 @@
   "skip_veto": true,
   "side_type": "never_knife",
   "maplist": [
-    "de_cache"
+    "de_mirage"
   ],
   "favored_percentage_team1": 65,
   "favored_percentage_text": "Favoritt",
@@ -22,11 +22,11 @@
     "flag": "NO",
     "logo": "http://entilen.nettbrygga.com/wp-content/themes/entilen/images/csgotest/nick1.png",
     "players": {
-      "STEAM_0:0:18439306": "EPLZ",
-      "STEAM_0:1:28320407": "BILL0",
+      "STEAM_0:0:18439306": "xBoyCommanderX",
+      "STEAM_0:1:28320407": "bill0",
       "STEAM_0:0:155560512": "FREDDY",
-      "STEAM_0:0:1026682": "HUSMOR",
-      "STEAM_0:0:44069072": "SNO"
+      "STEAM_0:1:46083980": "luggass",
+      "STEAM_0:0:32809389": "vOkkelse"
     }
   },
   "team2": {
@@ -38,8 +38,8 @@
       "STEAM_0:1:2416471": "MESEL",
       "STEAM_0:1:2017957": "DIPPI",
       "STEAM_0:0:6021159": "HOLO",
-      "STEAM_0:0:319203": "FINNO",
-      "STEAM_0:0:5157057": "SKONTRE"
+      "STEAM_0:0:5157057": "SKONTRE",
+      "STEAM_0:0:44069072": "SNO"
     }
   },
   "cvars": {
