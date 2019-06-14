@@ -1,15 +1,13 @@
 {
   "matchid": "7",
-  "num_maps": 3,
-  "players_per_team": 1,
+  "num_maps": 1,
+  "players_per_team": 5,
   "min_players_to_ready": 1,
   "min_spectators_to_ready": 0,
   "skip_veto": true,
   "side_type": "never_knife",
   "maplist": [
-    "aim_kings_peacekeeper_rifles_2",
-    "121_aim_map_no_awp_v1",
-    "121_aim_redline_noawp"
+    "de_cache"
   ],
   "favored_percentage_team1": 65,
   "favored_percentage_text": "Favoritt",
@@ -20,25 +18,33 @@
   },
   "team1": {
     "name": "Team Numero Uno",
-    "tag": "KEV",
+    "tag": "UNO",
     "flag": "NO",
     "logo": "http://entilen.nettbrygga.com/wp-content/themes/entilen/images/csgotest/nick1.png",
     "players": {
-      "STEAM_0:1:447665287": "wiz"
+      "STEAM_0:0:18439306": "EPLZ",
+      "STEAM_0:1:28320407": "BILL0",
+      "STEAM_0:0:155560512": "FREDDY",
+      "STEAM_0:0:1026682": "HUSMOR",
+      "STEAM_0:0:141958633": "SNO"
     }
   },
   "team2": {
     "name": "Team Numero Dos",
-    "tag": "MHM",
+    "tag": "DOS",
     "flag": "NO",
     "logo": "http://entilen.nettbrygga.com/wp-content/themes/entilen/images/csgotest/nick2.png",
     "players": {
-      "STEAM_0:0:44069072": "popps"
+      "STEAM_0:1:2416471": "MESEL",
+      "STEAM_0:1:2017957": "DIPPI",
+      "STEAM_0:0:6021159": "HOLO",
+      "STEAM_0:0:319203": "FINNO",
+      "STEAM_0:0:5157057": "SKONTRE"
     }
   },
   "cvars": {
-    "get5_autoload_config":"get5/aim.cfg",
+    "get5_autoload_config":"get5/live.cfg",
     "get5_warmup_cfg":"get5/warmup.cfg",
-    "get5_live_cfg":"get5/aim.cfg"
+    "get5_live_cfg":"get5/live.cfg"
   }
 }
