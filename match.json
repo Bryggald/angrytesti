@@ -20,14 +20,14 @@
     "flag": "NO",
     "logo": "",
     "players": {
-      "STEAM_0:1:16645160": "Bjede"
+      "STEAM_0:1:16645160": "PLAYER1"
     }
   },
   "team2": {
     "flag": "NO",
     "logo": "",
     "players": {
-      "STEAM_0:0:44069072": "Hayalp"
+      "STEAM_0:0:44069072": "PLAYER2"
     }
   },
   "cvars": {
