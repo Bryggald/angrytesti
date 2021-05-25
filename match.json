@@ -21,13 +21,15 @@
     "logo": "",
     "players": {
       "STEAM_0:1:417647611": "KEVSTER"
+      "STEAM_0:0:44069072": "HALLAL"
     }
   },
   "team2": {
     "flag": "NO",
     "logo": "",
     "players": {
-      "STEAM_0:0:44069072": "HALLAL"
+      "STEAM_0:0:41234072": "BOT1"
+      "STEAM_0:0:44123472": "BOT1"
     }
   },
   "cvars": {
